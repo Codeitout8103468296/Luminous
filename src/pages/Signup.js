@@ -33,7 +33,7 @@ const SignupPage = () => {
           {/* Header */}
           <div className="text-center mb-6 sm:mb-8 lg:mb-10">
             <h1 className="text-3xl sm:text-4xl font-bold text-[#00BFB3] mb-2">Create Account</h1>
-            <p className="text-[#96C93D] text-md sm:text-lg">Join Luminous Tech-X today</p>
+            <p className="text-[#96C93D] text-md sm:text-lg">Join Luminous Techno-X today</p>
           </div>
 
           {/* Signup Form */}

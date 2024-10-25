@@ -32,7 +32,7 @@ const LoginPage = () => {
         <div className="bg-white rounded-2xl shadow-xl p-6 sm:p-8 lg:p-12">
           {/* Logo & Header */}
           <div className="text-center mb-6 sm:mb-8 lg:mb-10">
-            <h1 className="text-3xl sm:text-4xl font-bold text-[#00BFB3] mb-2">Luminous Tech-X</h1>
+            <h1 className="text-3xl sm:text-4xl font-bold text-[#00BFB3] mb-2">Luminous Techno-X</h1>
             <p className="text-[#96C93D] text-md sm:text-lg">Powering a sustainable future</p>
           </div>
 
